@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "Boot disk installed",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2020-06-18T14:00:10.130Z",
-      "id": 2
+      "id": 2,
+      "message": "Boot disk installed now",
+      "attention": true,
+      "tech": "Chaithra Poonacha",
+      "date": "2020-06-18T16:40:05.764Z"
     },
     {
-      "message": "Servers down",
+      "id": 3,
+      "message": "Servers down fixed",
       "attention": false,
-      "tech": "Neel Subbaiah",
-      "date": "2020-06-18T14:00:29.463Z",
-      "id": 3
+      "tech": "Prasanna Poonacha",
+      "date": "2020-06-18T16:40:20.177Z"
     }
   ],
   "techs": [
