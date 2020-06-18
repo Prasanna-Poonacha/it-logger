@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "id": 2,
-      "message": "Boot disk installed now",
-      "attention": true,
-      "tech": "Chaithra Poonacha",
-      "date": "2020-06-18T16:40:05.764Z"
-    },
-    {
       "id": 3,
       "message": "Servers down fixed",
       "attention": false,
       "tech": "Prasanna Poonacha",
       "date": "2020-06-18T16:40:20.177Z"
+    },
+    {
+      "message": "zebra is missing",
+      "attention": true,
+      "tech": "Prasanna Poonacha",
+      "date": "2020-06-18T18:30:58.682Z",
+      "id": 4
     }
   ],
   "techs": [
