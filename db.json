@@ -1,13 +1,6 @@
 {
   "logs": [
     {
-      "message": "Computer restarted",
-      "attention": true,
-      "tech": "Prasanna Poonacha",
-      "date": "2020-06-18T13:59:53.499Z",
-      "id": 1
-    },
-    {
       "message": "Boot disk installed",
       "attention": false,
       "tech": "John Doe",
